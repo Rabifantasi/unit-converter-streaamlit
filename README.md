@@ -14,23 +14,17 @@ Run the app locally with just one command!
 📥 Installation & Setup
 1️⃣ Clone the Repository
 
-sh
-Copy
-Edit
+
 git clone https://github.com/yourusername/unit-converter.git
 cd unit-converter
 2️⃣ Install Dependencies
 Make sure you have Python 3 and Streamlit installed:
 
-sh
-Copy
-Edit
+
 pip install streamlit
 3️⃣ Run the App
 
-sh
-Copy
-Edit
+
 streamlit run app.py
 📜 Usage
 1️⃣ Select the conversion type (Length, Weight, or Temperature).
